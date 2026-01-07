@@ -73,6 +73,9 @@ student-connect-website/
 
 Watch full setup video here:
 https://youtube.com/yourvideo
+## 👨‍💻 Contributors
+
+- Ishan Walia – Developer
 
 ## API Endpoints
 
