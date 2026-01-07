@@ -1,3 +1,7 @@
+![GitHub stars](https://img.shields.io/github/stars/yourusername/student-connect-website?style=social)
+![GitHub forks](https://img.shields.io/github/forks/yourusername/student-connect-website?style=social)
+![MIT License](https://img.shields.io/badge/license-MIT-green)
+
 # Student Connect Website
 
 A platform for students to share and access educational resources, including notes, slides, code examples, and more.
