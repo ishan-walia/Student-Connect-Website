@@ -104,6 +104,15 @@ student-connect-website/
 - File upload validation
 - Rate limiting
 
+## 🚀 Future Plans
+
+- Mobile App version
+- AI-based resource recommendation
+- PDF viewer inside app
+- Cloud storage (AWS S3)
+- Chat system between students
+
+
 ## Contributing
 
 1. Fork the repository
