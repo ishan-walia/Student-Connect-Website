@@ -87,6 +87,16 @@ student-connect-website/
 | Student | Upload, comment, rate |
 | Admin | Delete resources, manage users |
 
+## 📁 Folder Explanation
+
+| Folder | Use |
+|------|----|
+| api | API Routes |
+| uploads | User uploaded files |
+| js | Client-side scripts |
+| styles | CSS design |
+| config | DB & env settings |
+
 ## 🔐 Security Features
 
 - JWT Login System
