@@ -79,6 +79,15 @@ student-connect-website/
 - `POST /api/resources/:id/comments` - Add a comment
 - `POST /api/resources/:id/rate` - Rate a resource
 
+## 👥 User Roles
+
+| Role | Access |
+|-----|------|
+| Guest | View & download resources |
+| Student | Upload, comment, rate |
+| Admin | Delete resources, manage users |
+
+
 ## Contributing
 
 1. Fork the repository
