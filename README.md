@@ -69,6 +69,10 @@ student-connect-website/
 ├── README.md           # Project documentation
 └── server.js           # Main server file
 ```
+## 🎥 Installation Guide
+
+Watch full setup video here:
+https://youtube.com/yourvideo
 
 ## API Endpoints
 
