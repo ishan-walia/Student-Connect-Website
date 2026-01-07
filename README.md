@@ -87,6 +87,12 @@ student-connect-website/
 | Student | Upload, comment, rate |
 | Admin | Delete resources, manage users |
 
+## 🔐 Security Features
+
+- JWT Login System
+- Password Encryption (bcrypt)
+- File upload validation
+- Rate limiting
 
 ## Contributing
 
